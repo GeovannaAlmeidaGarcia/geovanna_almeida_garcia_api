@@ -15,7 +15,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Apps
-    'livros',
     'api',
 
     # Terceiros
